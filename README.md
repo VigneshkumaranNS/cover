@@ -132,7 +132,7 @@ Write HTML and CSS herefor designing book cover page and execute them.
 ![output](./book.png)
 
 ## HTML Validator
-![HTML validator](./validator.png)
+![HTML validator](./gladiator.png)
 
 ## Result:
 The Program for designing book cover page using HTML and CSS is executed Successfully.
